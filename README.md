@@ -43,8 +43,8 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="">
-                    <img src="" width="100px;" alt="AaQib Ali"/>
+                <a href="https://github.com/aaqibali1">
+                    <img src="https://avatars.githubusercontent.com/u/75785706?v=4" width="100px;" alt="AaQib Ali"/>
                     <br />
                     <sub><b>AaQib Ali</b></sub>
                 </a> 
