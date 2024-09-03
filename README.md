@@ -73,8 +73,8 @@
      </tr>  
         <tr>
     <td align="center"><b>Day 01</b></br>02-Sep-2024</td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/992841545965466">Introduction to Python</br></td>
-    <td align="center" ><a href="https://drive.google.com/file/d/1kWPpQ_brVAlMaRzp2H_iX9bFg773FCJS/view?usp=sharing">Slides</td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/395579696603502">Introduction to Python</br></td>
+    <td align="center" ><a href="https://www.canva.com/design/DAGHdv6X-iI/ENB5xhRC6MyIxORlNM6kPQ/edit">Slides</td>
         <td align="center">Introduction to Python <br/> History of python<br/>Features & Applications of python<br/>IDE for Python</td>
       <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
   </tr>
