@@ -85,6 +85,13 @@
         <td align="center">Comments<br/>Varibles<br/>Overview of DataTypes</td>
       <td align="center"><a href="https://www.linkedin.com/in/maazaienthusiast/">Maaz Irfan</td>
   </tr>
+          <tr>
+    <td align="center"><b>Day 03</b></br>04-Sep-2024</td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1570662080497078"></br>Lecture # 3</td>
+       <td align="center"><a href="https://colab.research.google.com/drive/1it4fZ__D5O8aez4NGMbuAUTo9Er4JOvV#scrollTo=_8Wv0Q9frUXk"></br>Pratice File</td>
+        <td align="center">Comments<br/>DataTypes<br/>Type Casting</td>
+     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+  </tr>
 </tbody>
 <table>
 
