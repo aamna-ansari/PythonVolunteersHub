@@ -82,7 +82,7 @@
     <td align="center"><b>Day 02</b></br>03-Sep-2024</td>
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/507325335337975"></br>Variables</td>
        <td align="center"><a href="https://www.w3schools.com/python/python_comments.asp"></br>Variables</td>
-        <td align="center">Comments<br/>Varibles<br/>Overview of DataTypes</td>
+        <td align="center">Comments<br/>Variables<br/>Overview of DataTypes</td>
       <td align="center"><a href="https://www.linkedin.com/in/maazaienthusiast/">Maaz Irfan</td>
   </tr>
           <tr>
