@@ -92,6 +92,13 @@
         <td align="center">Comments<br/>DataTypes<br/>Type Casting</td>
      <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
   </tr>
+         <tr>
+    <td align="center"><b>Day 04</b></br>05-Sep-2024</td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1114544893430928"></br>Operators</td>
+       <td align="center"><a href="https://colab.research.google.com/drive/1EharaVyXHCSfj_x1jH0PQzqkcO77qfUu#scrollTo=7La4Q7w459ch&uniqifier=1"></br>Pratice File</td>
+        <td align="center">Arithmetic Operators<br/>Assignment Operators<br/>Comparison Operators<br/>Logical Operators<br/>Membership Operators<br/>Identity Operators</td>
+     <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
+  </tr>
 </tbody>
 <table>
 
