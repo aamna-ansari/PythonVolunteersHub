@@ -99,6 +99,13 @@
         <td align="center">Arithmetic Operators<br/>Assignment Operators<br/>Comparison Operators<br/>Logical Operators<br/>Membership Operators<br/>Identity Operators</td>
      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
+         <tr>
+    <td align="center"><b>Day 05</b></br>06-Sep-2024</td>
+    <td align="center"><a href=""></br>Operators</td>
+       <td align="center"><a href="https://colab.research.google.com/drive/1EharaVyXHCSfj_x1jH0PQzqkcO77qfUu#scrollTo=7La4Q7w459ch&uniqifier=1"></br>Pratice File</td>
+        <td align="center">BitWise Operators</td>
+     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+  </tr>
 </tbody>
 <table>
 
