@@ -109,3 +109,24 @@
 </tbody>
 <table>
 
+# Week 02
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Materials</th>
+     <th>Topics</th>
+   <td align="center"><b>Trainer Name</b></td>
+     </tr>  
+         <tr>
+    <td align="center"><b>Day 01</b></br>09-Sep-2024</td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1064866398590789"></br></td>
+       <td align="center"><a href=""></br>Pratice File</td>
+        <td align="center"></td>
+     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+  </tr>
+</tbody>
+<table>
+
