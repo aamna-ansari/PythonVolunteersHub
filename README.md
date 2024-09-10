@@ -127,6 +127,13 @@
         <td align="center">Bitwise Operators</br>if Statements</br>else Statements</br>elif Statements</td>
      <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
   </tr>
+         <tr>
+    <td align="center"><b>Day 02</b></br>10-Sep-2024</td>
+    <td align="center"><a href="https://fb.watch/uwl48PKsCn/">Flow Controls</br></td>
+       <td align="center" ><a href="------------------">Practice File</td>
+        <td align="center">While loop</br>if Statements</br>Break</br>Continue</td>
+     <td align="center"><a href="https://www.linkedin.com/in/maazaienthusiast/">Maaz Irfan</td>
+  </tr>
 </tbody>
 <table>
 
