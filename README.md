@@ -130,8 +130,8 @@
          <tr>
     <td align="center"><b>Day 02</b></br>10-Sep-2024</td>
     <td align="center"><a href="https://fb.watch/uwl48PKsCn/">Flow Controls</br></td>
-       <td align="center" ><a href="------------------">Practice File</td>
-        <td align="center">While loop</br></br>Break</br>Continue</td>
+       <td align="center" ><a href="https://colab.research.google.com/drive/1pRtHejz4ygRo7LuqrEIsmD8LnQXiTOA-#scrollTo=-ZAn08vQ_R_Q">Practice File</td>
+        <td align="center">While loop</br>Break</br>Continue</td>
      <td align="center"><a href="https://www.linkedin.com/in/maazaienthusiast/">Maaz Irfan</td>
   </tr>
 </tbody>
