@@ -136,10 +136,17 @@
   </tr>
          <tr>
     <td align="center"><b>Day 03</b></br>11-Sep-2024</td>
-    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/3915101732098194">Flow Controls</br></td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/3915101732098194">Loops</br></td>
        <td align="center" ><a href="https://colab.research.google.com/drive/1pRtHejz4ygRo7LuqrEIsmD8LnQXiTOA-#scrollTo=-ZAn08vQ_R_Q">Practice File</td>
         <td align="center">While loop</br>Break</br>Continue</td>
      <td align="center"><a href="https://www.linkedin.com/in/maazaienthusiast/">Maaz Irfan</td>
+  </tr>
+         <tr>
+    <td align="center"><b>Day 04</b></br>12-Sep-2024</td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/3746571612276354">Loops </br></td>
+       <td align="center" ><a href="https://colab.research.google.com/drive/1oilMuog1P7CRks-cXLE016NQG0JGnHqu#scrollTo=ezNOLHSDWCDJ">Practice File</td>
+        <td align="center">range()</br>random()</br>Practice</td>
+     <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
   </tr>
 </tbody>
 <table>
