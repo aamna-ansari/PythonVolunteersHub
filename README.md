@@ -9,7 +9,7 @@
 
 **Join Our Community:** Join our community on [iCodeGuru](www.icode.guru/join) to connect with fellow learners and volunteer mentors.
 
-# TeamMembers
+# Team_Members
 
 <table >
     <tbody>
