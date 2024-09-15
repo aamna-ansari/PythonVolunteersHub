@@ -9,6 +9,8 @@
 
 **Join Our Community:** Join our community on [iCodeGuru](www.icode.guru/join) to connect with fellow learners and volunteer mentors.
 
+**Google Colab NoteBook:** [Python For Beginners](https://colab.research.google.com/drive/1MZQSbFPSa0z5cddZoeFAYBf1SvvAtXcD?usp=sharing#scrollTo=JTilxyDec5kY) 
+
 # Team_Members
 
 <table >
