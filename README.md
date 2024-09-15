@@ -152,7 +152,7 @@
   </tr>
          <tr>
     <td align="center"><b>Day 05</b></br>13-Sep-2024</td>
-    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/502782322577739">Loops Problems</br></td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/502782322577739">Loops Problem</br></td>
        <td align="center" ><a href="https://colab.research.google.com/drive/1oilMuog1P7CRks-cXLE016NQG0JGnHqu#scrollTo=ezNOLHSDWCDJ">Practice File</td>
         <td align="center">Problem Statements</td>
      <td align="center"><a href="https://www.linkedin.com/in/aamnansari/">AaMna AnSari</td>
