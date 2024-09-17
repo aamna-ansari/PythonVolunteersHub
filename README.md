@@ -173,17 +173,14 @@
      </tr>  
          <tr>
     <td align="center"><b>Day 01</b></br>16-Sep-2024</td>
-    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1704515706755394">String</br></td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/776244961181296">String</br></td>
        <td align="center" ><a href="https://colab.research.google.com/drive/1TKi2c2ulI_zjVaU3UN4LuBTbMc0bSPly#scrollTo=wR9aiHsHmCy6">Practice File</td>
         <td align="center">String</br>Methods of String</td>
      <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
   </tr>
          <tr>
     <td align="center"><b>Day 02</b></br>17-Sep-2024</td>
-    <td align="center"><a href="https://fb.watch/uwl48PKsCn/">Flow Controls</br></td>
-       <td align="center" ><a href="https://colab.research.google.com/drive/1L8wd-2qXWDQupM4D8FvSSaOF7LA0V5tQ?usp=sharing">Practice File</td>
-        <td align="center">While loop</br>Break</br>Continue</td>
-     <td align="center"><a href="https://www.linkedin.com/in/maazaienthusiast/">Maaz Irfan</td>
+   
   </tr>
          
 </tbody>
