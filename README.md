@@ -180,9 +180,11 @@
   </tr>
          <tr>
     <td align="center"><b>Day 02</b></br>17-Sep-2024</td>
-   
-  </tr>
-         
+   <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/9008597792501962">String</br></td>
+       <td align="center" ><a href="https://colab.research.google.com/drive/1TKi2c2ulI_zjVaU3UN4LuBTbMc0bSPly#scrollTo=wR9aiHsHmCy6">Practice File</td>
+        <td align="center">String</br>Methods of String</td>
+     <td align="center"><a href="https://www.linkedin.com/in/maazaienthusiast/">Maaz Irfan</td>
+  </tr>     
 </tbody>
 <table>
 
