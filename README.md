@@ -194,7 +194,7 @@
          <tr>
     <td align="center"><b>Day 04</b></br>19-Sep-2024</td>
    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/9008597792501962">List</br></td>
-       <td align="center" ><a href="https://colab.research.google.com/drive/1TKi2c2ulI_zjVaU3UN4LuBTbMc0bSPly#scrollTo=wR9aiHsHmCy6">Practice File</td>
+       <td align="center" ><a href="https://colab.research.google.com/drive/1RUA90IAA1CrMlNC1QguyllFScvWVoLjQ?usp=sharing">Practice File</td>
         <td align="center">List</br>Methods of List</td>
      <td align="center"><a href="https://www.linkedin.com/in/malaika-farooq/">Malika Farooq</td>
   </tr>
