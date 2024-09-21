@@ -198,6 +198,12 @@
         <td align="center">List</br>Methods of List</td>
      <td align="center"><a href="https://www.linkedin.com/in/malaika-farooq/">Malika Farooq</td>
   </tr>
+  <tr>
+    <td align="center"><b>Day 05</b></br>20-Sep-2024</td>
+   <td align="center"><a href="">List</br></td>
+       <td align="center" ><a href="">Practice File</td>
+        <td align="center">List</br>Methods of List</td>
+     <td align="center"><a href="https://www.linkedin.com/in/maazaienthusiast/">Maaz Irfan</td>
   </tr>     
 </tbody>
 <table>
