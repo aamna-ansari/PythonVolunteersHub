@@ -194,3 +194,32 @@
 </tbody>
 <table>
 
+# Week 04
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Materials</th>
+     <th>Topics</th>
+   <td align="center"><b>Trainer Name</b></td>
+     </tr>  
+         <tr>
+    <td align="center"><b>Day 01</b></br>23-Sep-2024</td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/845654587335763">List</br></td>
+       <td align="center" ><a href="https://colab.research.google.com/drive/1yt37lcoqeWrdy1cUcbIMNhvqGhnUYWQQ#scrollTo=C-ErTCQOHVYQ">Practice File</td>
+        <td align="center">Methods of List</td>
+     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+  </tr>
+         <tr>
+    <td align="center"><b>Day 02</b></br>24-Sep-2024</td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/571992025198590">Tuple</br></td>
+       <td align="center" ><a href="https://colab.research.google.com/drive/1FteH81-8A7WFR0qxtPegXDcVrIr8ZfbE?usp=sharing">Practice File</td>
+        <td align="center">Tuples</td>
+     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+  </tr>
+  </tr>     
+</tbody>
+<table>
+
