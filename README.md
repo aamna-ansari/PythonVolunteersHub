@@ -218,8 +218,14 @@
        <td align="center" ><a href="https://colab.research.google.com/drive/1FteH81-8A7WFR0qxtPegXDcVrIr8ZfbE?usp=sharing">Practice File</td>
         <td align="center">Tuples</td>
      <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
+  </tr>    
+         <tr>
+    <td align="center"><b>Day 03</b></br>25-Sep-2024</td>
+    <td align="center"><a href="">Tuple</br></td>
+       <td align="center" ><a href="https://colab.research.google.com/drive/1FteH81-8A7WFR0qxtPegXDcVrIr8ZfbE?usp=sharing">Practice File</td>
+        <td align="center">Tuples</td>
+     <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
   </tr>
-  </tr>     
 </tbody>
 <table>
 
