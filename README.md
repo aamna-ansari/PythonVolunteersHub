@@ -229,7 +229,7 @@
          <tr>
     <td align="center"><b>Day 04</b></br>26-Sep-2024</td>
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1056450386034399">Set</br></td>
-       <td align="center" ><a href="https://colab.research.google.com/drive/1FteH81-8A7WFR0qxtPegXDcVrIr8ZfbE?usp=sharing">Practice File</td>
+       <td align="center" ><a href="https://colab.research.google.com/drive/1gGDTpa0XQ767Te9wG20y9Na0uysZIO1X#scrollTo=dSzGHHpqQL_j">Practice File</td>
         <td align="center">Set</td>
      <td align="center"><a href="https://www.linkedin.com/in/sana-qaisar-03b354316">Sana Qasir</td>
   </tr>
